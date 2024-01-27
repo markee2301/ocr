@@ -8,7 +8,7 @@ import numpy as np
 reader = easyocr.Reader(['en'])
 
 # Streamlit app title
-st.title("Text Extraction from Image")
+st.title("IntelLibro Sample OCR")
 
 # Upload image
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
