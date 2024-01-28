@@ -2,3 +2,4 @@ easyocr
 streamlit
 numpy
 Pillow
+fpdf
